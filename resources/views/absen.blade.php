@@ -3,8 +3,6 @@
 
 <head>
     @vite('resources/css/app.css')
-    <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
-    <script src="../path/to/flowbite/dist/flowbite.min.js"></script>
     <title>Absen Masuk</title>
 </head>
 
